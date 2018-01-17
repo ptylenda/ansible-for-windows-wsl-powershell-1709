@@ -1,0 +1,1 @@
+wsl sudo /bin/bash install-ansible.sh
